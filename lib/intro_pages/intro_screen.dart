@@ -56,7 +56,7 @@ class _IntroScreenState extends State<IntroScreen> {
         },
         backgroundColor: Color(0xff246BFD),
         elevation: 0.0,
-        child: Icon(Icons.arrow_forward),
+        child: Icon(Icons.arrow_forward) ,
       ),
     );
   }
